@@ -1,2 +1,1 @@
-# shinbin
-Personal Website
+This is shinbin's personal website
