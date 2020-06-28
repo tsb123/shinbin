@@ -157,14 +157,12 @@ a:focus {
 
 .contact-section {
     display: table;
-    width: 100%;
+    width: 98%;
     height: auto;
     padding: 100px 0;
     text-align: center;
-        overflow:auto;
-
     color: #fff;
-    background: url(../img/backgroundpics/Punggolwater.JPG) no-repeat bottom center scroll;
+    background: url(../img/backgroundpics/mit.jpg) no-repeat bottom center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -241,7 +239,7 @@ a:focus {
     -moz-animation-timing-function: linear;
 }
 
-@-webkit-keyframes pulse {    
+@-webkit-keyframes pulse {
     0% {
         -webkit-transform: scale(1);
         transform: scale(1);
@@ -258,7 +256,7 @@ a:focus {
     }
 }
 
-@-moz-keyframes pulse {    
+@-moz-keyframes pulse {
     0% {
         -moz-transform: scale(1);
         transform: scale(1);
@@ -276,7 +274,9 @@ a:focus {
 }
 
 .content-section {
-    padding-top: 100px;
+    width: 100%;
+    padding: 50px 0;
+
 }
 
 .about-section {
